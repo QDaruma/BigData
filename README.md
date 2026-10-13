@@ -40,3 +40,4 @@ docker compose -f hadoop/docker-compose.yml down
 - **Python simple** est le plus rapide à toutes les tailles testées.
 - **Pseudo-MapReduce** est 3 à 4 fois plus lent, sans rien gagner sur une seule machine.
 - **Hadoop** perd environ 30 s à chaque lancement, quelle que soit la taille. Il ne devient intéressant que sur de très gros volumes répartis sur plusieurs machines.
+

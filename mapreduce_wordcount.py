@@ -35,3 +35,4 @@ if __name__ == "__main__":
     reduced = compter_mapreduce(fichier)
     for mot, count in sorted(reduced.items(), key=lambda x: x[1], reverse=True):
         print(f"{mot} : {count}")
+

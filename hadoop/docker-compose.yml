@@ -26,3 +26,4 @@ services:
     command: ["yarn", "nodemanager"]
     env_file: ./config
     depends_on: [resourcemanager]
+
