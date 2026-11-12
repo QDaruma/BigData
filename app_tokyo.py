@@ -53,7 +53,7 @@ annee_construction = g.slider("Année de construction", 1960, 2019, 2005)
 minutes = d.slider("Minutes à pied jusqu'à la gare", 1, 30, 7)
 renove = g.checkbox("Appartement rénové")
 annee = d.selectbox("Date de vente (année)", list(range(2019, 2004, -1)))
-trimestre = 3 if annee == 2019 else 2
+trimestre = 3 if annee in (2005, 2019) else 2  # les données vont du 3e trim. 2005 au 3e trim. 2019
 
 if annee_construction > annee:
     st.error("L'immeuble doit être construit avant la vente.")

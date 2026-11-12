@@ -59,7 +59,7 @@ def variables(df):
     out["salle_a_manger"] = plans.map(lambda p: _lettre(p, "D"))
     out["cuisine"] = plans.map(lambda p: _lettre(p, "K"))
     out["piece_en_plus"] = plans.map(lambda p: _lettre(p, "S"))
-    out["renove"] = (df["Renovation"] == "Done").astype(float)
+    out["renove"] = df["Renovation"].map({"Done": 1.0, "Not yet": 0.0})  # inconnu -> NaN, complété par l'imputer
     out["taux_emprise"] = df["CoverageRatio"].astype(float)
     out["taux_densite"] = df["FloorAreaRatio"].astype(float)
     out["date"] = df["Year"] + (df["Quarter"] - 1) / 4
