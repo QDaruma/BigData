@@ -1,0 +1,5012 @@
+{
+ "Adachi Ward": {
+  "Adachiodai": {
+   "ventes": 84,
+   "CityPlanning": "Industrial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Aoi": {
+   "ventes": 237,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Ayase": {
+   "ventes": 463,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Daishimae": {
+   "ventes": 255,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Gotanno": {
+   "ventes": 355,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kameari": {
+   "ventes": 306,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Keiseisekiya": {
+   "ventes": 165,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Kitaayase": {
+   "ventes": 771,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Kitasenju": {
+   "ventes": 425,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Kohoku": {
+   "ventes": 80,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kosuge": {
+   "ventes": 55,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 250.0
+  },
+  "Machiya": {
+   "ventes": 20,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Minumadaishinsuikoen": {
+   "ventes": 56,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Nishiarai": {
+   "ventes": 296,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Nishiaraidaishinishi": {
+   "ventes": 100,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Odai": {
+   "ventes": 37,
+   "CityPlanning": "Industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Ogiohashi": {
+   "ventes": 44,
+   "CityPlanning": "Industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Ojikamiya": {
+   "ventes": 138,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Rokucho": {
+   "ventes": 229,
+   "CityPlanning": "Quasi-residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Senjuohashi": {
+   "ventes": 197,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Takenotsuka": {
+   "ventes": 540,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Toneri": {
+   "ventes": 48,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Umejima": {
+   "ventes": 536,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Ushida (Tokyo)": {
+   "ventes": 52,
+   "CityPlanning": "Industrial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Yatsuka": {
+   "ventes": 55,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Yazaike": {
+   "ventes": 82,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  }
+ },
+ "Akishima City": {
+  "Akishima": {
+   "ventes": 210,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Haijima": {
+   "ventes": 92,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Higashinakagami": {
+   "ventes": 32,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Nakagami": {
+   "ventes": 152,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Nishitachikawa": {
+   "ventes": 47,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Seibutachikawa": {
+   "ventes": 20,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  }
+ },
+ "Arakawa Ward": {
+  "Akadoshogakkomae": {
+   "ventes": 60,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Arakawaitchumae": {
+   "ventes": 22,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Arakawakuyakushomae": {
+   "ventes": 57,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Arakawashakomae": {
+   "ventes": 53,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Keiseisekiya": {
+   "ventes": 38,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Kumanomae": {
+   "ventes": 92,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Machiya": {
+   "ventes": 446,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Mikawashima": {
+   "ventes": 230,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Minamisenju": {
+   "ventes": 470,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Minowa": {
+   "ventes": 278,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Nippori": {
+   "ventes": 291,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Nishinippori": {
+   "ventes": 141,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Oku": {
+   "ventes": 178,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Senjuohashi": {
+   "ventes": 29,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Shinmikawashima": {
+   "ventes": 93,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Tabata": {
+   "ventes": 80,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 350.0
+  },
+  "Uguisudani": {
+   "ventes": 51,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  }
+ },
+ "Bunkyo Ward": {
+  "Edogawabashi": {
+   "ventes": 516,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 70.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Gokokuji": {
+   "ventes": 409,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Hakusan (Tokyo)": {
+   "ventes": 279,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Higashiikebukuro": {
+   "ventes": 24,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Hongo 3-chome": {
+   "ventes": 380,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Honkomagome": {
+   "ventes": 269,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Iidabashi": {
+   "ventes": 109,
+   "CityPlanning": "Category II Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Kasuga (Tokyo)": {
+   "ventes": 619,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Komagome": {
+   "ventes": 180,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Korakuen": {
+   "ventes": 275,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Myogadani": {
+   "ventes": 473,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Nezu": {
+   "ventes": 256,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Nishinippori": {
+   "ventes": 66,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Ochanomizu": {
+   "ventes": 123,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Sendagi": {
+   "ventes": 354,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Sengoku": {
+   "ventes": 332,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Shin-otsuka": {
+   "ventes": 222,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Suehirocho (Tokyo)": {
+   "ventes": 21,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Sugamo": {
+   "ventes": 23,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Suidobashi": {
+   "ventes": 110,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Tabata": {
+   "ventes": 103,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Todaimae": {
+   "ventes": 140,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Waseda (Metro)": {
+   "ventes": 31,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Yushima": {
+   "ventes": 232,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  }
+ },
+ "Chiyoda Ward": {
+  "Akihabara": {
+   "ventes": 175,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Asakusabashi": {
+   "ventes": 76,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Awajicho": {
+   "ventes": 84,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Bakurocho": {
+   "ventes": 112,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Hanzomon": {
+   "ventes": 256,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Ichigaya": {
+   "ventes": 210,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Iidabashi": {
+   "ventes": 103,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Iwamotocho": {
+   "ventes": 287,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Jinbocho": {
+   "ventes": 115,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Kanda (Tokyo)": {
+   "ventes": 174,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 700.0
+  },
+  "Kodenmacho": {
+   "ventes": 66,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Kojimachi": {
+   "ventes": 173,
+   "CityPlanning": "Category II Residential Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Kudanshita": {
+   "ventes": 151,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Nagatacho": {
+   "ventes": 39,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Ochanomizu": {
+   "ventes": 88,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Ogawamachi (Tokyo)": {
+   "ventes": 131,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Otemachi (Tokyo)": {
+   "ventes": 31,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Suehirocho (Tokyo)": {
+   "ventes": 40,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Suidobashi": {
+   "ventes": 67,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  }
+ },
+ "Chofu City": {
+  "Chofu": {
+   "ventes": 561,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Fuda": {
+   "ventes": 140,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Keiotamagawa": {
+   "ventes": 256,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kokuryo": {
+   "ventes": 333,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Nishichofu": {
+   "ventes": 151,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Sengawa": {
+   "ventes": 99,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Shibasaki": {
+   "ventes": 135,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Tsutsujigaoka": {
+   "ventes": 186,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  }
+ },
+ "Chuo Ward": {
+  "Bakurocho": {
+   "ventes": 142,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 700.0
+  },
+  "Bakuroyokoyama": {
+   "ventes": 137,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Ginza 1-chome": {
+   "ventes": 26,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 800.0
+  },
+  "Hamacho": {
+   "ventes": 397,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Hatchobori (Tokyo)": {
+   "ventes": 602,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Higashiginza": {
+   "ventes": 162,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Higashinihonbashi": {
+   "ventes": 255,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Kachidoki": {
+   "ventes": 1673,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Kayabacho": {
+   "ventes": 357,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Kodenmacho": {
+   "ventes": 226,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Mitsukoshimae": {
+   "ventes": 49,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Nihonbashi (Tokyo)": {
+   "ventes": 44,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Ningyocho": {
+   "ventes": 350,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Shinnihonbashi": {
+   "ventes": 20,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 750.0
+  },
+  "Shintomicho (Tokyo)": {
+   "ventes": 502,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Suitengumae": {
+   "ventes": 863,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Takaracho (Tokyo)": {
+   "ventes": 26,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Tsukiji": {
+   "ventes": 281,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Tsukijishijo": {
+   "ventes": 37,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 700.0
+  },
+  "Tsukishima": {
+   "ventes": 761,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  }
+ },
+ "Edogawa Ward": {
+  "Edogawa": {
+   "ventes": 63,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Funabori": {
+   "ventes": 391,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Higashiojima": {
+   "ventes": 101,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Hirai (Tokyo)": {
+   "ventes": 303,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Ichinoe": {
+   "ventes": 260,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kasai": {
+   "ventes": 669,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Kasairinkaikoen": {
+   "ventes": 169,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Keiseikoiwa": {
+   "ventes": 117,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Koiwa": {
+   "ventes": 420,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Mizue": {
+   "ventes": 225,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Nishikasai": {
+   "ventes": 788,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Shinkoiwa": {
+   "ventes": 371,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Shinozaki": {
+   "ventes": 163,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  }
+ },
+ "Fuchu City": {
+  "Bubaigawara": {
+   "ventes": 132,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Fuchu (Tokyo)": {
+   "ventes": 616,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Fuchuhonmachi": {
+   "ventes": 80,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Higashifuchu": {
+   "ventes": 275,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Kitafuchu": {
+   "ventes": 107,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Koremasa": {
+   "ventes": 115,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Musashikoganei": {
+   "ventes": 39,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Musashinodai": {
+   "ventes": 214,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Nakagawara": {
+   "ventes": 197,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Nishifu": {
+   "ventes": 81,
+   "CityPlanning": "Quasi-residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Nishikokubunji": {
+   "ventes": 33,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Shiraitodai": {
+   "ventes": 37,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Tama": {
+   "ventes": 21,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Tamareien": {
+   "ventes": 27,
+   "CityPlanning": "Quasi-residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Tobitakyu": {
+   "ventes": 49,
+   "CityPlanning": "Quasi-residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  }
+ },
+ "Fussa City": {
+  "Fussa": {
+   "ventes": 179,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Haijima": {
+   "ventes": 41,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Higashifussa": {
+   "ventes": 31,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  }
+ },
+ "Hachioji City": {
+  "Chuodaigaku/Meiseidaigaku": {
+   "ventes": 24,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Hachioji": {
+   "ventes": 813,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Hachiojiminamino": {
+   "ventes": 119,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 50.0,
+   "FloorAreaRatio": 150.0
+  },
+  "Hazama": {
+   "ventes": 204,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Katakura": {
+   "ventes": 20,
+   "CityPlanning": "Category II Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Keiohachioji": {
+   "ventes": 302,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Keiohorinouchi": {
+   "ventes": 381,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 50.0,
+   "FloorAreaRatio": 150.0
+  },
+  "Keiotama Center": {
+   "ventes": 55,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kitahachioji": {
+   "ventes": 48,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kitano (Tokyo)": {
+   "ventes": 151,
+   "CityPlanning": "Category II Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Matsugaya": {
+   "ventes": 85,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Mejirodai": {
+   "ventes": 180,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Minamiosawa": {
+   "ventes": 584,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 50.0,
+   "FloorAreaRatio": 150.0
+  },
+  "Nishihachioji": {
+   "ventes": 506,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Otsuka/Teikyodaigaku": {
+   "ventes": 24,
+   "CityPlanning": "Quasi-residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Takao (Tokyo)": {
+   "ventes": 153,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Yamada (Tokyo)": {
+   "ventes": 21,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  }
+ },
+ "Hamura City": {
+  "Hamura": {
+   "ventes": 121,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Ozaku": {
+   "ventes": 84,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  }
+ },
+ "Higashikurume City": {
+  "Hanakoganei": {
+   "ventes": 123,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Hibarigaoka (Tokyo)": {
+   "ventes": 42,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Higashikurume": {
+   "ventes": 208,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Kiyose": {
+   "ventes": 47,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kodaira": {
+   "ventes": 98,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  }
+ },
+ "Higashimurayama City": {
+  "Hagiyama": {
+   "ventes": 61,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Higashimurayama": {
+   "ventes": 166,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kumegawa": {
+   "ventes": 357,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Ogawa (Tokyo)": {
+   "ventes": 48,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Shin-akitsu": {
+   "ventes": 77,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Yasaka (Tokyo)": {
+   "ventes": 113,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  }
+ },
+ "Higashiyamato City": {
+  "Higashiyamatoshi": {
+   "ventes": 150,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kamikitadai": {
+   "ventes": 35,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 50.0,
+   "FloorAreaRatio": 150.0
+  },
+  "Sakurakaido": {
+   "ventes": 118,
+   "CityPlanning": "Industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Tamagawajosui": {
+   "ventes": 101,
+   "CityPlanning": "Industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  }
+ },
+ "Hino City": {
+  "Hino (Tokyo)": {
+   "ventes": 95,
+   "CityPlanning": "Category II Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Hodokubo": {
+   "ventes": 24,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Koshukaido": {
+   "ventes": 47,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Manganji": {
+   "ventes": 48,
+   "CityPlanning": "Quasi-residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Mogusaen": {
+   "ventes": 68,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Takahatafudo": {
+   "ventes": 193,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Toyota": {
+   "ventes": 273,
+   "CityPlanning": "Industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  }
+ },
+ "Inagi City": {
+  "Inagi": {
+   "ventes": 130,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Inaginaganuma": {
+   "ventes": 48,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Keioyomiuri Land": {
+   "ventes": 87,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kurihira": {
+   "ventes": 27,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Minamitama": {
+   "ventes": 35,
+   "CityPlanning": "Industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Shin-yurigaoka": {
+   "ventes": 42,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Wakabadai": {
+   "ventes": 179,
+   "CityPlanning": "Category II Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Yanokuchi": {
+   "ventes": 86,
+   "CityPlanning": "Quasi-residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  }
+ },
+ "Itabashi Ward": {
+  "Chikatetsuakatsuka": {
+   "ventes": 61,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Chikatetsunarimasu": {
+   "ventes": 179,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Hasune": {
+   "ventes": 305,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Itabashi": {
+   "ventes": 77,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Itabashihoncho": {
+   "ventes": 535,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Itabashikuyakushomae": {
+   "ventes": 529,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Jujo (Tokyo)": {
+   "ventes": 37,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Kamiitabashi": {
+   "ventes": 482,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kanamecho": {
+   "ventes": 173,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Kitaakabane": {
+   "ventes": 29,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Kotakemukaihara": {
+   "ventes": 227,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Motohasunuma": {
+   "ventes": 282,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Nakaitabashi": {
+   "ventes": 224,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Narimasu": {
+   "ventes": 233,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Nishidai": {
+   "ventes": 318,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Nishitakashimadaira": {
+   "ventes": 104,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Oyama (Tokyo)": {
+   "ventes": 539,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Senkawa": {
+   "ventes": 28,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Shimoakatsuka": {
+   "ventes": 97,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Shimoitabashi": {
+   "ventes": 84,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Shimura 3-chome": {
+   "ventes": 571,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Shimurasakaue": {
+   "ventes": 424,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Shin-itabashi": {
+   "ventes": 152,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Shintakashimadaira": {
+   "ventes": 111,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Takashimadaira": {
+   "ventes": 232,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Tobunerima": {
+   "ventes": 315,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Tokiwadai (Tokyo)": {
+   "ventes": 584,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Ukimafunado": {
+   "ventes": 212,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  }
+ },
+ "Katsushika Ward": {
+  "Aoto": {
+   "ventes": 326,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Ayase": {
+   "ventes": 65,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Horikirishobuen": {
+   "ventes": 216,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Kameari": {
+   "ventes": 311,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Kanamachi": {
+   "ventes": 626,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Keiseikoiwa": {
+   "ventes": 24,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Keiseitakasago": {
+   "ventes": 162,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Keiseitateishi": {
+   "ventes": 373,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Koiwa": {
+   "ventes": 52,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Ohanajaya": {
+   "ventes": 570,
+   "CityPlanning": "Industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Shibamata": {
+   "ventes": 123,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Shinkoiwa": {
+   "ventes": 650,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Shinshibamata": {
+   "ventes": 60,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Yotsugi": {
+   "ventes": 182,
+   "CityPlanning": "Industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  }
+ },
+ "Kita Ward": {
+  "Akabane": {
+   "ventes": 424,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Akabaneiwabuchi": {
+   "ventes": 101,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Higashijujo": {
+   "ventes": 301,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Itabashi": {
+   "ventes": 139,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Itabashihoncho": {
+   "ventes": 31,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Jujo (Tokyo)": {
+   "ventes": 51,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Kaminakazato": {
+   "ventes": 22,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Kitaakabane": {
+   "ventes": 261,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Komagome": {
+   "ventes": 174,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Motohasunuma": {
+   "ventes": 72,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Nishigahara": {
+   "ventes": 50,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Nishinippori": {
+   "ventes": 21,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Nishisugamo": {
+   "ventes": 295,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Oji": {
+   "ventes": 481,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Ojikamiya": {
+   "ventes": 304,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Oku": {
+   "ventes": 65,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Shimo": {
+   "ventes": 128,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Shin-itabashi": {
+   "ventes": 87,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Tabata": {
+   "ventes": 277,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Takinogawa 1-chome": {
+   "ventes": 23,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Ukimafunado": {
+   "ventes": 135,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  }
+ },
+ "Kiyose City": {
+  "Kiyose": {
+   "ventes": 283,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  }
+ },
+ "Kodaira City": {
+  "Hanakoganei": {
+   "ventes": 221,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Higashiyamatoshi": {
+   "ventes": 57,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Hitotsubashigakuen": {
+   "ventes": 308,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kodaira": {
+   "ventes": 94,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Ogawa (Tokyo)": {
+   "ventes": 32,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Takanodai": {
+   "ventes": 30,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  }
+ },
+ "Koganei City": {
+  "Higashikoganei": {
+   "ventes": 83,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Musashikoganei": {
+   "ventes": 577,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  }
+ },
+ "Kokubunji City": {
+  "Koigakubo": {
+   "ventes": 61,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kokubunji": {
+   "ventes": 379,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Kunitachi": {
+   "ventes": 121,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Nishikokubunji": {
+   "ventes": 144,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  }
+ },
+ "Komae City": {
+  "Izumitamagawa": {
+   "ventes": 60,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kitami": {
+   "ventes": 173,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kokuryo": {
+   "ventes": 24,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Komae": {
+   "ventes": 316,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Shibasaki": {
+   "ventes": 31,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  }
+ },
+ "Koto Ward": {
+  "Ariake Tennis Nomori": {
+   "ventes": 171,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Etchujima": {
+   "ventes": 172,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Higashiojima": {
+   "ventes": 579,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Hirai (Tokyo)": {
+   "ventes": 39,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Kameido": {
+   "ventes": 939,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Kameidosuijin": {
+   "ventes": 120,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Kiba": {
+   "ventes": 520,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Kikukawa (Tokyo)": {
+   "ventes": 145,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Kinshicho": {
+   "ventes": 94,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Kiyosumishirakawa": {
+   "ventes": 649,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Minamisunamachi": {
+   "ventes": 954,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Monzennakacho": {
+   "ventes": 566,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Morishita (Tokyo)": {
+   "ventes": 299,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Nishiojima": {
+   "ventes": 434,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Odaibakaihinkoen": {
+   "ventes": 27,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Ojima (Tokyo)": {
+   "ventes": 598,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Shinonome (Tokyo)": {
+   "ventes": 120,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Shiomi": {
+   "ventes": 225,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Suitengumae": {
+   "ventes": 29,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Sumiyoshi (Tokyo)": {
+   "ventes": 476,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Tatsumi": {
+   "ventes": 438,
+   "CityPlanning": "Category II Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Toyocho": {
+   "ventes": 954,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Toyosu": {
+   "ventes": 1258,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  }
+ },
+ "Kunitachi City": {
+  "Kunitachi": {
+   "ventes": 271,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Nishikunitachi": {
+   "ventes": 26,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Yagawa": {
+   "ventes": 147,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Yaho": {
+   "ventes": 87,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  }
+ },
+ "Machida City": {
+  "Fuchinobe": {
+   "ventes": 63,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 50.0,
+   "FloorAreaRatio": 150.0
+  },
+  "Kobuchi": {
+   "ventes": 80,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 50.0,
+   "FloorAreaRatio": 100.0
+  },
+  "Machida": {
+   "ventes": 654,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Minamimachida": {
+   "ventes": 257,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Naruse": {
+   "ventes": 62,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Suzukakedai": {
+   "ventes": 61,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Tamagawagakuenmae": {
+   "ventes": 233,
+   "CityPlanning": "Category II Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 50.0,
+   "FloorAreaRatio": 100.0
+  },
+  "Tamasakai": {
+   "ventes": 147,
+   "CityPlanning": "Category II Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Tsukushino": {
+   "ventes": 29,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 50.0,
+   "FloorAreaRatio": 100.0
+  },
+  "Tsurukawa": {
+   "ventes": 236,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 50.0,
+   "FloorAreaRatio": 100.0
+  }
+ },
+ "Meguro Ward": {
+  "Daikan-yama": {
+   "ventes": 21,
+   "CityPlanning": "Category II Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Ebisu": {
+   "ventes": 130,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Fudomae": {
+   "ventes": 125,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Gakugeidaigaku": {
+   "ventes": 618,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Ikejiriohashi": {
+   "ventes": 366,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Jiyugaoka (Tokyo)": {
+   "ventes": 72,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Komabatodaimae": {
+   "ventes": 81,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Komazawadaigaku": {
+   "ventes": 27,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 175.0
+  },
+  "Meguro": {
+   "ventes": 601,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Midorigaoka (Tokyo)": {
+   "ventes": 39,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Musashikoyama": {
+   "ventes": 120,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Nakameguro": {
+   "ventes": 441,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Nishikoyama": {
+   "ventes": 73,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Ookayama": {
+   "ventes": 77,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 150.0
+  },
+  "Senzoku": {
+   "ventes": 70,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Shinsen": {
+   "ventes": 184,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Toritsudaigaku": {
+   "ventes": 464,
+   "CityPlanning": "Category II Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Yutenji": {
+   "ventes": 235,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  }
+ },
+ "Minato Ward": {
+  "Akabanebashi": {
+   "ventes": 176,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Akasaka (Tokyo)": {
+   "ventes": 517,
+   "CityPlanning": "Category II Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Akasakamitsuke": {
+   "ventes": 76,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Aoyama 1-chome": {
+   "ventes": 165,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Azabujuban": {
+   "ventes": 738,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Daimon (Tokyo)": {
+   "ventes": 94,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Gaienmae": {
+   "ventes": 72,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Hamamatsucho": {
+   "ventes": 220,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Hinode": {
+   "ventes": 72,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Hiroo": {
+   "ventes": 253,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Kamiyacho": {
+   "ventes": 127,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Mita (Tokyo)": {
+   "ventes": 490,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Nogizaka": {
+   "ventes": 216,
+   "CityPlanning": "Category II Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Odaibakaihinkoen": {
+   "ventes": 60,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Omotesando": {
+   "ventes": 233,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Onarimon": {
+   "ventes": 45,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Roppongi": {
+   "ventes": 507,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Roppongi 1-chome": {
+   "ventes": 181,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Sengakuji": {
+   "ventes": 389,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Shibakoen": {
+   "ventes": 295,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Shibaurafuto": {
+   "ventes": 100,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Shinagawa": {
+   "ventes": 714,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Shinbashi": {
+   "ventes": 64,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 700.0
+  },
+  "Shiodome": {
+   "ventes": 49,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Shirokanedai": {
+   "ventes": 207,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Shirokanetakanawa": {
+   "ventes": 1001,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Takanawadai": {
+   "ventes": 229,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Takeshiba": {
+   "ventes": 27,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Tamachi (Tokyo)": {
+   "ventes": 1093,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Tameikesanno": {
+   "ventes": 75,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Tennozu Isle": {
+   "ventes": 219,
+   "CityPlanning": "Category II Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Toranomon": {
+   "ventes": 36,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 700.0
+  }
+ },
+ "Mitaka City": {
+  "Kichijoji": {
+   "ventes": 70,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Mitaka": {
+   "ventes": 535,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Mitakadai": {
+   "ventes": 81,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Musashisakai": {
+   "ventes": 79,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Sengawa": {
+   "ventes": 31,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  }
+ },
+ "Musashimurayama City": {
+  "Seibutachikawa": {
+   "ventes": 41,
+   "CityPlanning": "Industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  }
+ },
+ "Musashino City": {
+  "Higashikoganei": {
+   "ventes": 23,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kichijoji": {
+   "ventes": 277,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Mitaka": {
+   "ventes": 426,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Musashisakai": {
+   "ventes": 222,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  }
+ },
+ "Nakano Ward": {
+  "Araiyakushimae": {
+   "ventes": 200,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Fujimidai": {
+   "ventes": 28,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Higashinakano": {
+   "ventes": 207,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Honancho": {
+   "ventes": 76,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Koenji": {
+   "ventes": 136,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Nakai": {
+   "ventes": 20,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Nakano (Tokyo)": {
+   "ventes": 501,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Nakanofujimicho": {
+   "ventes": 191,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Nakanosakaue": {
+   "ventes": 433,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Nakanoshinbashi": {
+   "ventes": 260,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Nishishinjuku 5-chome": {
+   "ventes": 58,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Nogata": {
+   "ventes": 249,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Numabukuro": {
+   "ventes": 176,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Ochiai (Tokyo)": {
+   "ventes": 132,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Saginomiya": {
+   "ventes": 171,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 150.0
+  },
+  "Sasazuka": {
+   "ventes": 29,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Shimoigusa": {
+   "ventes": 69,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 50.0,
+   "FloorAreaRatio": 150.0
+  },
+  "Shinegota": {
+   "ventes": 79,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Shinnakano": {
+   "ventes": 452,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Toritsukasei": {
+   "ventes": 59,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  }
+ },
+ "Nerima Ward": {
+  "Chikatetsuakatsuka": {
+   "ventes": 123,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Chikatetsunarimasu": {
+   "ventes": 32,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Ekoda": {
+   "ventes": 210,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Fujimidai": {
+   "ventes": 237,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Heiwadai (Tokyo)": {
+   "ventes": 185,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Higashifushimi": {
+   "ventes": 35,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Hikarigaoka": {
+   "ventes": 438,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Hikawadai": {
+   "ventes": 347,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Hoya": {
+   "ventes": 75,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Iogi": {
+   "ventes": 34,
+   "CityPlanning": "Quasi-residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kamiigusa": {
+   "ventes": 42,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Kamiitabashi": {
+   "ventes": 89,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kamishakujii": {
+   "ventes": 323,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Kichijoji": {
+   "ventes": 32,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Kotakemukaihara": {
+   "ventes": 24,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Musashiseki": {
+   "ventes": 629,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Nakamurabashi": {
+   "ventes": 516,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Nerima": {
+   "ventes": 852,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Nerimakasugacho": {
+   "ventes": 150,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Nerimatakanodai": {
+   "ventes": 274,
+   "CityPlanning": "Quasi-residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Nogata": {
+   "ventes": 43,
+   "CityPlanning": "Quasi-residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Numabukuro": {
+   "ventes": 40,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Oizumigakuen": {
+   "ventes": 474,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Saginomiya": {
+   "ventes": 37,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Sakuradai (Tokyo)": {
+   "ventes": 370,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Shakujiikoen": {
+   "ventes": 341,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Shinegota": {
+   "ventes": 187,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Shinsakuradai": {
+   "ventes": 103,
+   "CityPlanning": "Quasi-residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Tobunerima": {
+   "ventes": 168,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Toritsukasei": {
+   "ventes": 150,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Toshimaen": {
+   "ventes": 134,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  }
+ },
+ "Nishitokyo City": {
+  "Hibarigaoka (Tokyo)": {
+   "ventes": 198,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Higashifushimi": {
+   "ventes": 65,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Hoya": {
+   "ventes": 126,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Musashisakai": {
+   "ventes": 34,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Seibuyagisawa": {
+   "ventes": 117,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Tanashi": {
+   "ventes": 690,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  }
+ },
+ "Ota Ward": {
+  "Anamoriinari": {
+   "ventes": 102,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Chidoricho": {
+   "ventes": 287,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Den-enchofu": {
+   "ventes": 24,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Hasunuma": {
+   "ventes": 284,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Heiwajima": {
+   "ventes": 481,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Ikegami": {
+   "ventes": 486,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Ishikawadai": {
+   "ventes": 200,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kamata": {
+   "ventes": 880,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Keikyukamata": {
+   "ventes": 340,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Kitasenzoku": {
+   "ventes": 63,
+   "CityPlanning": "Quasi-residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Kojiya": {
+   "ventes": 301,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kugahara": {
+   "ventes": 80,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Magome": {
+   "ventes": 417,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Musashinitta": {
+   "ventes": 541,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Nagahara (Tokyo)": {
+   "ventes": 302,
+   "CityPlanning": "Category II Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Nishikomagome": {
+   "ventes": 857,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Numabe": {
+   "ventes": 108,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Omori (Tokyo)": {
+   "ventes": 854,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Omorikaigan": {
+   "ventes": 340,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Omorimachi": {
+   "ventes": 511,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Ontakesan": {
+   "ventes": 147,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Ookayama": {
+   "ventes": 73,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Otorii": {
+   "ventes": 274,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Rokugodote": {
+   "ventes": 189,
+   "CityPlanning": "Industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Senzoku": {
+   "ventes": 46,
+   "CityPlanning": "Quasi-residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Senzokuike": {
+   "ventes": 159,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Shimomaruko": {
+   "ventes": 232,
+   "CityPlanning": "Industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Tamagawa": {
+   "ventes": 125,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Umeyashiki (Tokyo)": {
+   "ventes": 269,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Unoki": {
+   "ventes": 276,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Yaguchinowatashi": {
+   "ventes": 435,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Yukigayaotsuka": {
+   "ventes": 254,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Zoshiki": {
+   "ventes": 453,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  }
+ },
+ "Oume City": {
+  "Higashioume": {
+   "ventes": 173,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kabe": {
+   "ventes": 340,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Oume": {
+   "ventes": 181,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Ozaku": {
+   "ventes": 194,
+   "CityPlanning": "Industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  }
+ },
+ "Setagaya Ward": {
+  "Chitosefunabashi": {
+   "ventes": 634,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Chitosekarasuyama": {
+   "ventes": 535,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Daitabashi": {
+   "ventes": 150,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Den-enchofu": {
+   "ventes": 55,
+   "CityPlanning": "Category II Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Fujimigaoka": {
+   "ventes": 20,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Futakotamagawa": {
+   "ventes": 456,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Gakugeidaigaku": {
+   "ventes": 155,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Gotokuji": {
+   "ventes": 104,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Hachiman-yama": {
+   "ventes": 174,
+   "CityPlanning": "Category II Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Higashikitazawa": {
+   "ventes": 39,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Higashimatsubara": {
+   "ventes": 33,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 150.0
+  },
+  "Ikejiriohashi": {
+   "ventes": 282,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Ikenoue": {
+   "ventes": 90,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Jiyugaoka (Tokyo)": {
+   "ventes": 55,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kamikitazawa": {
+   "ventes": 138,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kamimachi": {
+   "ventes": 234,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kaminoge": {
+   "ventes": 318,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kitami": {
+   "ventes": 56,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 50.0,
+   "FloorAreaRatio": 150.0
+  },
+  "Komabatodaimae": {
+   "ventes": 54,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Komazawadaigaku": {
+   "ventes": 486,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Kugayama": {
+   "ventes": 49,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kuhonbutsu": {
+   "ventes": 74,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kyodo": {
+   "ventes": 287,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Matsubara (Tokyo)": {
+   "ventes": 51,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Meidaimae": {
+   "ventes": 148,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Okusawa": {
+   "ventes": 62,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Oyamadai": {
+   "ventes": 305,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Rokakoen": {
+   "ventes": 262,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Sakurajosui": {
+   "ventes": 83,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Sakurashinmachi": {
+   "ventes": 503,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Sangenjaya": {
+   "ventes": 825,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Seijogakuenmae": {
+   "ventes": 282,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Sengawa": {
+   "ventes": 94,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Setagaya": {
+   "ventes": 98,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Setagayadaita": {
+   "ventes": 60,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Shimokitazawa": {
+   "ventes": 49,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Shimotakaido": {
+   "ventes": 144,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Shindaita": {
+   "ventes": 52,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Shoinjinjamae": {
+   "ventes": 79,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Soshigayaokura": {
+   "ventes": 311,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Todoroki": {
+   "ventes": 171,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Toritsudaigaku": {
+   "ventes": 77,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Umegaoka": {
+   "ventes": 71,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Wakabayashi (Tokyo)": {
+   "ventes": 132,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Yoga": {
+   "ventes": 612,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Yutenji": {
+   "ventes": 28,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  }
+ },
+ "Shibuya Ward": {
+  "Daikan-yama": {
+   "ventes": 201,
+   "CityPlanning": "Category II Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Ebisu": {
+   "ventes": 656,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Gaienmae": {
+   "ventes": 82,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Harajuku": {
+   "ventes": 56,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Hatagaya": {
+   "ventes": 529,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Hatsudai": {
+   "ventes": 454,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Hiroo": {
+   "ventes": 139,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Kitasando": {
+   "ventes": 79,
+   "CityPlanning": "Category II Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Meijijingumae": {
+   "ventes": 33,
+   "CityPlanning": "Category II Residential Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Minamishinjuku": {
+   "ventes": 76,
+   "CityPlanning": "Category II Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Nishishinjuku 5-chome": {
+   "ventes": 205,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Omotesando": {
+   "ventes": 91,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Sangubashi": {
+   "ventes": 143,
+   "CityPlanning": "Category II Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Sasazuka": {
+   "ventes": 517,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Sendagaya": {
+   "ventes": 55,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Shibuya": {
+   "ventes": 732,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Shinjuku": {
+   "ventes": 176,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Shinsen": {
+   "ventes": 220,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Yoyogi": {
+   "ventes": 237,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Yoyogihachiman": {
+   "ventes": 184,
+   "CityPlanning": "Quasi-residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Yoyogikoen": {
+   "ventes": 201,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Yoyogiuehara": {
+   "ventes": 209,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  }
+ },
+ "Shinagawa Ward": {
+  "Aomonoyokocho": {
+   "ventes": 170,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Ebaramachi": {
+   "ventes": 28,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Ebaranakanobu": {
+   "ventes": 179,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Fudomae": {
+   "ventes": 435,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Gotanda": {
+   "ventes": 909,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Hatanodai": {
+   "ventes": 174,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Kitashinagawa": {
+   "ventes": 185,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Magome": {
+   "ventes": 31,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Meguro": {
+   "ventes": 223,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Musashikoyama": {
+   "ventes": 306,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Nakanobu": {
+   "ventes": 128,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Nishikoyama": {
+   "ventes": 83,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Nishioi": {
+   "ventes": 151,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Oikeibajomae": {
+   "ventes": 154,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Oimachi": {
+   "ventes": 603,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Omori (Tokyo)": {
+   "ventes": 368,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Omorikaigan": {
+   "ventes": 423,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Osaki": {
+   "ventes": 933,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Osakihirokoji": {
+   "ventes": 161,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 700.0
+  },
+  "Samezu": {
+   "ventes": 175,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Shimoshinmei": {
+   "ventes": 57,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Shinagawa Sea Side": {
+   "ventes": 157,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Shinbanba": {
+   "ventes": 322,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Tachiaigawa": {
+   "ventes": 381,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Takanawadai": {
+   "ventes": 107,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Tennozu Isle": {
+   "ventes": 151,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Togoshi": {
+   "ventes": 246,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Togoshiginza": {
+   "ventes": 330,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Togoshikoen": {
+   "ventes": 59,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  }
+ },
+ "Shinjuku Ward": {
+  "Akebonobashi": {
+   "ventes": 404,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Araiyakushimae": {
+   "ventes": 28,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Edogawabashi": {
+   "ventes": 239,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Hatsudai": {
+   "ventes": 78,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Higashinakano": {
+   "ventes": 185,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Higashishinjuku": {
+   "ventes": 452,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Ichigaya": {
+   "ventes": 95,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Iidabashi": {
+   "ventes": 260,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Kagurazaka": {
+   "ventes": 296,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Mejiro": {
+   "ventes": 79,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Nakai": {
+   "ventes": 154,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Nishishinjuku": {
+   "ventes": 383,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Nishishinjuku 5-chome": {
+   "ventes": 407,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Nishiwaseda": {
+   "ventes": 151,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Ochiai (Tokyo)": {
+   "ventes": 140,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Ochiaiminaminagasaki": {
+   "ventes": 347,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Okubo (Tokyo)": {
+   "ventes": 530,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Sendagaya": {
+   "ventes": 20,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Shiinamachi": {
+   "ventes": 47,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Shimoochiai": {
+   "ventes": 326,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Shin-okubo": {
+   "ventes": 208,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Shinanomachi": {
+   "ventes": 93,
+   "CityPlanning": "Category II Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Shinjuku": {
+   "ventes": 101,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 700.0
+  },
+  "Shinjuku 3-chome": {
+   "ventes": 162,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Shinjukugyoenmae": {
+   "ventes": 508,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Shinjukunishiguchi": {
+   "ventes": 33,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 700.0
+  },
+  "Takadanobaba": {
+   "ventes": 600,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Tochomae": {
+   "ventes": 120,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 800.0
+  },
+  "Ushigomekagurazaka": {
+   "ventes": 228,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Ushigomeyanagicho": {
+   "ventes": 375,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Wakamatsukawada": {
+   "ventes": 262,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Waseda (Metro)": {
+   "ventes": 520,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Yotsuya": {
+   "ventes": 81,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Yotsuya 3-chome": {
+   "ventes": 356,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  }
+ },
+ "Suginami Ward": {
+  "Asagaya": {
+   "ventes": 219,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Daitabashi": {
+   "ventes": 137,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Eifukucho": {
+   "ventes": 131,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Fujimigaoka": {
+   "ventes": 142,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Hachiman-yama": {
+   "ventes": 133,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Hamadayama": {
+   "ventes": 177,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 150.0
+  },
+  "Higashikoenji": {
+   "ventes": 326,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Honancho": {
+   "ventes": 532,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Iogi": {
+   "ventes": 245,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kamiigusa": {
+   "ventes": 77,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 50.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kamikitazawa": {
+   "ventes": 72,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Koenji": {
+   "ventes": 451,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Kugayama": {
+   "ventes": 145,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Meidaimae": {
+   "ventes": 53,
+   "CityPlanning": "Category II Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Minamiasagaya": {
+   "ventes": 272,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Mitakadai": {
+   "ventes": 20,
+   "CityPlanning": "Quasi-residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Nakano (Tokyo)": {
+   "ventes": 23,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 150.0
+  },
+  "Nakanofujimicho": {
+   "ventes": 93,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Nishieifuku": {
+   "ventes": 100,
+   "CityPlanning": "Category I Exclusively Low-story Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Nishiogikubo": {
+   "ventes": 636,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Ogikubo": {
+   "ventes": 885,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Rokakoen": {
+   "ventes": 74,
+   "CityPlanning": "Quasi-residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Sakurajosui": {
+   "ventes": 193,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Shimoigusa": {
+   "ventes": 119,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Shimotakaido": {
+   "ventes": 82,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Shinkoenji": {
+   "ventes": 291,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Takaido": {
+   "ventes": 473,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  }
+ },
+ "Sumida Ward": {
+  "Asakusa (Tobu/Toei/Metro)": {
+   "ventes": 75,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Higashiazuma": {
+   "ventes": 109,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Higashimukojima": {
+   "ventes": 310,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Hikifune": {
+   "ventes": 209,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Honjoazumabashi": {
+   "ventes": 424,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Kameido": {
+   "ventes": 22,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Kanegafuchi": {
+   "ventes": 89,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Keiseihikifune": {
+   "ventes": 227,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Kikukawa (Tokyo)": {
+   "ventes": 381,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Kinshicho": {
+   "ventes": 850,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Kuramae": {
+   "ventes": 32,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Morishita (Tokyo)": {
+   "ventes": 170,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Omurai": {
+   "ventes": 207,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Oshiage": {
+   "ventes": 512,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Ryogoku": {
+   "ventes": 1054,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Sumiyoshi (Tokyo)": {
+   "ventes": 27,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Tokyo Skytree": {
+   "ventes": 146,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Yahiro": {
+   "ventes": 205,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  }
+ },
+ "Tachikawa City": {
+  "Izumitaiikukan": {
+   "ventes": 24,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Musashisunagawa": {
+   "ventes": 164,
+   "CityPlanning": "Industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Nishikunitachi": {
+   "ventes": 99,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Nishitachikawa": {
+   "ventes": 89,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Seibutachikawa": {
+   "ventes": 44,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Shibasakitaiikukan": {
+   "ventes": 32,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Sunagawananaban": {
+   "ventes": 24,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Tachikawa": {
+   "ventes": 618,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Takamatsu (Tokyo)": {
+   "ventes": 24,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Tamagawajosui": {
+   "ventes": 87,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  }
+ },
+ "Taito Ward": {
+  "Akihabara": {
+   "ventes": 50,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Asakusa (Tobu/Toei/Metro)": {
+   "ventes": 391,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Asakusa (Tsukuba EXP)": {
+   "ventes": 489,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Asakusabashi": {
+   "ventes": 272,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Inaricho (Tokyo)": {
+   "ventes": 127,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Iriya (Tokyo)": {
+   "ventes": 773,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Kuramae": {
+   "ventes": 418,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Minamisenju": {
+   "ventes": 151,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Minowa": {
+   "ventes": 505,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Nakaokachimachi": {
+   "ventes": 58,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Nezu": {
+   "ventes": 124,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Nippori": {
+   "ventes": 37,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Okachimachi": {
+   "ventes": 68,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Shin-okachimachi": {
+   "ventes": 444,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Tawaramachi (Tokyo)": {
+   "ventes": 190,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Ueno": {
+   "ventes": 238,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 700.0
+  },
+  "Uguisudani": {
+   "ventes": 127,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Yushima": {
+   "ventes": 43,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  }
+ },
+ "Tama City": {
+  "Karakida": {
+   "ventes": 118,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Keionagayama": {
+   "ventes": 552,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Keiotama Center": {
+   "ventes": 458,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Odakyunagayama": {
+   "ventes": 63,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Odakyutama Center": {
+   "ventes": 85,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Seisekisakuragaoka": {
+   "ventes": 367,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Tama Center": {
+   "ventes": 30,
+   "CityPlanning": "Category II Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  }
+ },
+ "Toshima Ward": {
+  "Gokokuji": {
+   "ventes": 34,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Higashiikebukuro": {
+   "ventes": 388,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 600.0
+  },
+  "Higashinagasaki": {
+   "ventes": 156,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Ikebukuro": {
+   "ventes": 1058,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Itabashi": {
+   "ventes": 91,
+   "CityPlanning": "Category I Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Kanamecho": {
+   "ventes": 233,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Kitaikebukuro": {
+   "ventes": 377,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Komagome": {
+   "ventes": 219,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Mejiro": {
+   "ventes": 227,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Nishisugamo": {
+   "ventes": 291,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Ochiaiminaminagasaki": {
+   "ventes": 74,
+   "CityPlanning": "Neighborhood Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Otsuka (Tokyo)": {
+   "ventes": 762,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Senkawa": {
+   "ventes": 119,
+   "CityPlanning": "Category I Exclusively Medium-high Residential Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 200.0
+  },
+  "Shiinamachi": {
+   "ventes": 366,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 400.0
+  },
+  "Shimoitabashi": {
+   "ventes": 84,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Shin-otsuka": {
+   "ventes": 103,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Sugamo": {
+   "ventes": 282,
+   "CityPlanning": "Commercial Zone",
+   "Structure": "SRC",
+   "CoverageRatio": 80.0,
+   "FloorAreaRatio": 500.0
+  },
+  "Takadanobaba": {
+   "ventes": 61,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 300.0
+  },
+  "Zoshigaya (Tokyo Metro)": {
+   "ventes": 232,
+   "CityPlanning": "Quasi-industrial Zone",
+   "Structure": "RC",
+   "CoverageRatio": 60.0,
+   "FloorAreaRatio": 400.0
+  }
+ }
+}
