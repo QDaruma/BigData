@@ -1,15 +1,18 @@
-# TP3 Big Data : du jeu de données au modèle déployé
+# TP3 (identifiant 12) : du jeu de données au modèle déployé
+
+**Quentin Chamberlan**, FISA 5A.
 
 Cours « Fondements et Application de Big Data ». Deux projets complets, chacun suivant la chaîne
 **[Data] → [EDA] → [Prétraitement] → [Transformation] → [ML] → [Évaluation] → [Déploiement]** :
 
 | | Sujet 1 : prix de l'immobilier à Tokyo | Sujet 2 : vélos en libre-service à Chicago |
 |---|---|---|
-| Notebook | [`tokyo_immo.ipynb`](tokyo_immo.ipynb) | [`chicago_velos.ipynb`](chicago_velos.ipynb) |
+| Dossier | [`Small/`](Small/) | [`Big/`](Big/) |
+| Notebook | [`Small/tokyo_immo.ipynb`](Small/tokyo_immo.ipynb) | [`Big/chicago_velos.ipynb`](Big/chicago_velos.ipynb) |
 | Données | Kaggle, ventes immobilières du MLIT (Tokyo, 2005-2019), 406 575 lignes | Divvy, tous les trajets 2024 (12 fichiers CSV, ~1 Go) + météo horaire Open-Meteo |
-| Outils | pandas + scikit-learn (pas de Big Data) | HDFS (Hadoop 3.4 dans Docker) + Spark 3.5 / MLlib |
+| Outils | pandas + scikit-learn, et le même traitement refait avec PySpark | HDFS (Hadoop 3.4 dans Docker) + Spark 3.5 / MLlib |
 | Question | Combien vaut cet appartement d'occasion ? | Combien de vélos partiront de cette station, heure par heure ? |
-| Déploiement | Appli Streamlit [`app_tokyo.py`](app_tokyo.py) | Appli Streamlit [`app_velos.py`](app_velos.py) (modèle MLlib) |
+| Déploiement | Appli Streamlit [`Small/app_tokyo.py`](Small/app_tokyo.py) | Appli Streamlit [`Big/app_velos.py`](Big/app_velos.py) (modèle MLlib) |
 
 Chaque notebook est exécuté (sorties et graphiques visibles sur GitHub) et contient des tests
 `verifier(...)` qui affichent OK ou ÉCHEC à chaque étape ; le bilan des tests est en fin de notebook.
@@ -31,6 +34,9 @@ Chaque notebook est exécuté (sorties et graphiques visibles sur GitHub) et con
 - Test temporel (appris avant 2018, testé sur 2018-2019) : erreur médiane 11,1 %, R² 0,89, biais −6 %
   (le marché a monté plus vite que ce que le modèle a vu).
 - Variables les plus utiles (importance par permutation) : surface, âge, commune, date de vente.
+- **PySpark (partie 8, ajoutée pour le rendu)** : lecture, 7 règles de nettoyage, 17 variables et une
+  agrégation SparkSQL refaites avec Spark ; résultats identiques à pandas (vérifié ligne pour ligne). À cette
+  taille (104 Mo), Spark n'est pas plus rapide que pandas.
 
 ## Sujet 2 : départs de vélos Divvy à Chicago
 
@@ -58,19 +64,22 @@ Chaque notebook est exécuté (sorties et graphiques visibles sur GitHub) et con
 
 ## Lancer le projet
 
-Python 3.11, Java 8 ou 17 (pour Spark), Docker.
+Python 3.11, Java 8 ou 17 (pour Spark, y compris la partie 8 du cas Small), Docker (cas Big).
 
-Toutes les commandes se lancent depuis ce dossier `tp3/`. Si le cluster Hadoop du TP 1 tourne, l'arrêter
-d'abord (`docker compose down` dans `../tp1/hadoop`) : il utilise le même port 9870.
+Les commandes du sujet 1 se lancent depuis `Small/`, celles du sujet 2 depuis `Big/`. Si le cluster Hadoop du
+TP1 tourne, l'arrêter d'abord (`docker compose down` dans `../../TP1/hadoop`) : il utilise le même port 9870.
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib joblib streamlit "pyspark==3.5.*" kagglehub jupyter
 
-# Sujet 1 : le notebook télécharge les données Kaggle (compte Kaggle requis)
+# Sujet 1 (dans Small/) : le notebook télécharge les données Kaggle
+cd Small
 jupyter notebook tokyo_immo.ipynb
 streamlit run app_tokyo.py
+cd ..
 
-# Sujet 2 : démarrer HDFS (NameNode + DataNode), puis le notebook télécharge Divvy et remplit HDFS
+# Sujet 2 (dans Big/) : démarrer HDFS (NameNode + DataNode), puis le notebook télécharge Divvy et remplit HDFS
+cd Big
 cd hadoop && docker compose up -d && cd ..
 jupyter notebook chicago_velos.ipynb
 streamlit run app_velos.py
@@ -83,15 +92,19 @@ dans `%USERPROFILE%\hadoop-3.3.5\bin` ; le notebook et l'appli règlent `HADOOP_
 ## Organisation
 
 ```
-tokyo_immo.ipynb      sujet 1 (pandas + scikit-learn)
-tokyo_prep.py         préparation des variables, partagée entre le notebook et l'appli
-chicago_velos.ipynb   sujet 2 (HDFS + Spark MLlib)
-app_tokyo.py          déploiement du sujet 1
-app_velos.py          déploiement du sujet 2
-outils.py             verifier() et petites aides communes
-hadoop/               docker-compose.yml et configuration du mini-cluster HDFS
-modeles/              modèles entraînés (joblib, pipeline MLlib) et tables utilisées par les applis
-data/                 données brutes (non versionnées, recréées par les notebooks)
+Small/                 sujet 1 (petites données)
+  tokyo_immo.ipynb     notebook : pandas + scikit-learn, puis partie 8 en PySpark
+  tokyo_prep.py        préparation des variables, partagée entre le notebook et l'appli
+  app_tokyo.py         déploiement (Streamlit)
+  outils.py            verifier() et petites aides communes
+  modeles/             modèle entraîné (joblib) et tables utilisées par l'appli
+Big/                   sujet 2 (Big Data)
+  chicago_velos.ipynb  notebook : HDFS + Spark SQL + Spark MLlib
+  app_velos.py         déploiement (Streamlit, modèle MLlib)
+  outils.py            verifier() et petites aides communes
+  hadoop/              docker-compose.yml et configuration du mini-cluster HDFS
+  modeles/             pipeline MLlib sauvegardé et table des stations
+data/ (dans chaque dossier)  données brutes, non versionnées, recréées par les notebooks
 ```
 
 ## Sources

@@ -1,5 +1,7 @@
 # Comptage de mots : Python, MapReduce, Hadoop et Spark
 
+**Quentin Chamberlan**, FISA 5A. Les quatre méthodes demandées (Python séquentiel, pseudo-MapReduce, Hadoop MapReduce, PySpark) sont dans les deux notebooks ci-dessous.
+
 TP du cours *Fondements et Application de Big Data*. Un seul problème, compter les occurrences de chaque mot d'un fichier, résolu de cinq façons et mesuré sur des fichiers de 100 000 à 20 millions de lignes.
 
 | | Méthode | Principe | Code |
@@ -14,8 +16,8 @@ TP du cours *Fondements et Application de Big Data*. Un seul problème, compter 
 
 | Notebook | Contenu |
 |---|---|
-| **`comptage_mots.ipynb`** | TP 1 : V1, V2 et V3, effet de la taille des blocs HDFS |
-| **`comptage_mots_spark.ipynb`** | TP 2 : V4 et V5 avec PySpark, puis comparaison des cinq méthodes sur les mêmes fichiers, effet du nombre de partitions et de cœurs |
+| **`comptage_mots.ipynb`** | Partie 1 : V1, V2 et V3, effet de la taille des blocs HDFS |
+| **`comptage_mots_spark.ipynb`** | Partie 2 : V4 et V5 avec PySpark, puis comparaison des cinq méthodes sur les mêmes fichiers, effet du nombre de partitions et de cœurs |
 
 Chacun contient le problème, les explications, le code, les tests, les comparaisons et la conclusion. Ils sont enregistrés avec leurs sorties : on peut les lire sans rien exécuter.
 
@@ -47,8 +49,8 @@ Prérequis :
 ```bash
 pip install jupyter pandas matplotlib "pyspark>=3.5,<3.6"
 
-jupyter notebook comptage_mots.ipynb          # TP 1, une dizaine de minutes
-jupyter notebook comptage_mots_spark.ipynb    # TP 2, une vingtaine de minutes
+jupyter notebook comptage_mots.ipynb          # partie 1, une dizaine de minutes
+jupyter notebook comptage_mots_spark.ipynb    # partie 2, une vingtaine de minutes
 ```
 
 Les notebooks génèrent eux-mêmes les fichiers de test dans `data/` (environ 200 Mo, non versionnés) et démarrent le cluster Hadoop, dont la configuration est dans `hadoop/`. Spark tourne en mode local (`local[*]`), sans cluster.
@@ -68,8 +70,8 @@ docker compose -f hadoop/docker-compose.yml down
 ## Contenu du dépôt
 
 ```
-comptage_mots.ipynb          TP 1 : Python, pseudo-MapReduce, Hadoop
-comptage_mots_spark.ipynb    TP 2 : Spark (RDD et DataFrame), comparaison des cinq méthodes
+comptage_mots.ipynb          partie 1 : Python, pseudo-MapReduce, Hadoop
+comptage_mots_spark.ipynb    partie 2 : Spark (RDD et DataFrame), comparaison des cinq méthodes
 wordcount.py                 V1
 mapreduce_wordcount.py       V2
 spark_wordcount.py           V4 et V5

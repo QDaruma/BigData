@@ -1,5 +1,7 @@
 # Étude de cas : accidents de la route avec PySpark
 
+**Quentin Chamberlan**, FISA 5A.
+
 Étude de cas du cours *Fondements et Application de Big Data* : l'article Medium *Big Data Analysis of Road Crash Data using PySpark* de Rakesh Nain, refait partie par partie dans un notebook, avec des explications simples, des tests et des comparaisons.
 
 - Article : [Big Data Analysis of Road Crash Data using PySpark](https://medium.com/rakesh-nain/big-data-analysis-of-road-crash-data-using-pyspark-with-pyspark-tutorial-c78ff2c35588)
